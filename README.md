@@ -1,1 +1,2 @@
 # contact_book
+this project is a practical implementation of a contact book application. It allows users to add, search for, and view their contacts efficiently. Additionally, it provides a visual analysis of the performance of the contact search operation, which can be valuable for understanding and improving the application's efficiency. Future enhancements could include features like contact updates or deletions and further improvements in error handling and the user interface.
